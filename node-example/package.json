@@ -1,0 +1,24 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodeshift-blog-examples/buildpack-openshift-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodeshift-blog-examples/buildpack-openshift-example/issues"
+  },
+  "homepage": "https://github.com/nodeshift-blog-examples/buildpack-openshift-example#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pino-http": "^10.2.0"
+  }
+}
