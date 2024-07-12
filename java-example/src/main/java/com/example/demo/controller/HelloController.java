@@ -13,10 +13,10 @@ public class HelloController {
         return "<!DOCTYPE html>\n" +
                 "<html>\n" +
                 "  <head>\n" +
-                "    <title>Hello World</title>\n" +
+                "    <title>Hello World!</title>\n" +
                 "  </head>\n" +
                 "  <body>\n" +
-                "    <p>Hello World</p>\n" +
+                "    <p>Hello World!</p>\n" +
                 "  </body>\n" +
                 "</html>";
     }
